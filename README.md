@@ -6,7 +6,9 @@
 *En esta practica iniciaremos con aspectos basicos de github desde comandos desde la terminal*
 
 **INFORMACIÓN RELEVANTE**
-*Para el metodo de la fecha y hora es necesario importar una libreria, en mi caso, he importado java.time.LocalDateTime*
+*Para el metodo de la fecha y hora es necesario importar una libreria, en mi caso, he importado java.time.LocalDateTime.*
+
+*Para el metodo de los usuarios, he introducido dos metodos adicionales, para leer un solo usuario y para mostrar un solo usuario. A su vez, para leer datos, he tenido que importar la clase java.util.Scanner.*
 
 **APARTADOS A SEGUIR**
 1. *Crear un nuevo usuario en GitHub. Se recomienda registarse como estudiante.*
